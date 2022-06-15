@@ -28,5 +28,7 @@ https://gyazo.com/57af37f4a48a202b67e89b4abb0aa32c.png
 https://gyazo.com/da4dd8ae8a066541da1d0f76435ff080.png
 
 git https://github.com/DmitryPanov/web-market
+http://localhost:8189/market
+
 login: user
 password: 100
